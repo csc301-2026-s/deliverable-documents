@@ -80,7 +80,7 @@ Do a team-building activity in-person or online. This can be playing an online g
 
 #### Q7: What are the roles & responsibilities on the team?
 
-Describe the different roles on the team and the responsibilities associated with each role. 
+Describe the different roles on the team and the responsibilities associated with each role (e.g., frontend, database). 
  * Roles should reflect the structure of your team and be appropriate for your project. One person may have multiple roles.  
  * Add role(s) to your Team-[Team_Number]-[Team_Name].csv file on the main folder.
  * At least one person must be identified as the dedicated partner liaison. They need to have great organization and communication skills.
@@ -119,7 +119,7 @@ List/describe the artifacts you will produce to organize your team. (We strongly
  * If you have a partner project, what is your process for communicating with your partner? Who is responsible?
  
 **Collaboration:**
- * How are people held accountable for attending meetings, completing action items? what is your process?
+ * How are people held accountable for attending meetings, completing action items? What is your process?
  * How will you address the issue if one person doesn't contribute or is not responsive?
 
 ## Organisation Details

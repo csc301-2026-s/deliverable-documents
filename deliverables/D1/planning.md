@@ -117,10 +117,13 @@ List/describe the artifacts you will produce to organize your team. (We strongly
 **Communications:**
  * What is the expected frequency? What methods/channels will be used? 
  * If you have a partner project, what is your process for communicating with your partner? Who is responsible?
+ * 
  
 **Collaboration:**
  * How are people held accountable for attending meetings, completing action items? What is your process?
  * How will you address the issue if one person doesn't contribute or is not responsive?
+Our main method of Communication is on Discord. We have an official Discord server with the whole team, with multiple channels like the general channel, off-topic channel where the environment is more chill to allow us a place to connect outside of the project. Then there is  a resource dump channel where resources are shared that can help us with the project. Lastly the meeting-notes channel is where we post all the meeting notes. On the voice channel is where we do most of our internal team meetings without the partner. In order to have seamless communication with the partner, we have been added to PathwayR’s discord server. This is how we can communicate with them quickly. We also have their emails as another method of communication. We keep our meetings on Zoom or Google meeting with our partner on a weekly basis and have separate internal team meetings weekly as well. Although we all have access to the Discord server, Fizzah is one of the Product Managers who has taken on the responsibility to contact the partner when needed, so she will contact the partner normally with any major questions or updates. Romesa and Yitao are the 2 of the three development managers that will hold everyone accountable for work. If someone has completely stopped responding or working then we will first privately text that person multiple times, wait 1-2 days, and if the person is still unresponsive, then publicly ask that person in discord. We will wait 1 day after that, then email the student as we have everyone’s email. If the student is still unresponsive, we take this matter to the TA and let them deal with this. If the student is taken off the team then, we will redistribute the work amongst the remaining team members.
+
 
 ## Organisation Details
 
@@ -129,12 +132,19 @@ List/describe the artifacts you will produce to organize your team. (We strongly
 * Examples include product development that includes developing new features, or quality assurance that includes developing features that test the product reliability, or software maintenance that includes fixing crucial bugs in the product.
 * Provide examples of why you think you fit this role.
 
+Given the current state of the project, our team will primarily focus on backend development, data engineering and little bit of front-end, with a strong focus on data acquisition, processing, and maintenance. Since the frontend for the main pages has already been developed, our main responsibility is to build and maintain a dynamic database that powers the application as well as expand the front-end to have the necessary additional pages and fix past bugs. This includes developing web scraping to collect up-to-date information on awards, grants, and research opportunities, cleaning and structuring the scraped data, and storing it in a way that allows efficient querying based on user eligibility criteria. This role fits our team as we have multiple members with back-end experience. Additionally, our problem-solving skills allow us to debug scraping failures, adapt to changes in website layouts, and optimize database queries to support a responsive user experience.
+
+
 #### Q12. How does your project fit within the overall product from the partner?
 * Look at the big picture of the product and think about how your project fits into this product.
 * Is your project the first step towards building this product? Is it the first prototype? Are you developing the frontend of a product whose backend is developed by the partner? Are you building the release pipelines for a product that is developed by the partner? Are you building a core feature set and take full ownership of these features?
 * You should also provide details of who else is contributing to what parts of the product, if you have this information. This is more important if the project that you will be working on has strong coupling with parts that will be contributed to by members other than your team (e.g., from a partner).
 * You can be creative for these questions and even use a graphical or pictorial representation to demonstrate the fit.
 * Briefly specify what your partner considers a success for this project. Do they want you to build specific features? Publish a usable product? Just a prototype? Be as specific as you can be at this point.
+
+Our project is the core foundational feature of the overall product. The partner’s long-term goal is to build a web platform that helps students discover awards, grants, and research opportunities offered by professors they are eligible for, all in one place. Our work fits into this vision by providing the entire backend data system that enables this functionality, as well as implementing the AI system that matches students with opportunities based on their resumes. Our project represents the first functional prototype of the backend. Our team will take full ownership of the following  features, which include: Web scraping relevant external sources for funding and research opportunities, cleaning, structuring, and storing the data in a dynamic database, supporting eligibility-based filtering through parsing resumes so the frontend can display relevant results to users, and creating a front-end for the scholarship/grant page. Another team from another class may be updating the UX and UI of the webpage.  The partner considers this project successful if we deliver a usable backend prototype that can be integrated with their existing frontend. This will be defined by the success of automated data collection from multiple reliable sources, a structured database that supports eligibility-based queries, and a stable integration with the frontend for real user interaction. At this stage, the partner is primarily seeking a working prototype that demonstrates feasibility and can serve as the foundation for future expansion, rather than a fully polished commercial product.
+
+
 
 ## Potential Risks
 

@@ -55,7 +55,7 @@ civilians to respond confidently and effectively before emergency services arriv
 
 #### Q4: What are the user stories that make up the Minumum Viable Product (MVP)?
 
-
+TBA
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
 
@@ -109,15 +109,15 @@ Some fun facts we learned about our team members were:
 
 #### Q7: What are the roles & responsibilities on the team?
 
-Describe the different roles on the team and the responsibilities associated with each role (e.g., frontend, database).
-* Roles should reflect the structure of your team and be appropriate for your project. One person may have multiple roles.
-* Add role(s) to your Team-[Team_Number]-[Team_Name].csv file on the main folder.
-* At least one person must be identified as the dedicated partner liaison. They need to have great organization and communication skills.
-* Everyone must contribute to code. Students who don't contribute to code enough will receive a lower mark at the end of the term.
+**Jaycee (Database, Backend)** - She has some experience with SQL and databases through CSC343 and CSC309, and she is interested in learning more about how it can be integrated with the backend in this project. She will work on
 
-List each team member and:
-* A description of their role(s) and responsibilities including the components they'll work on and non-software related work
-* Why did you choose them to take that role? Specify if they are interested in learning that part, experienced in it, or any other reasons. Do no make things up. This part is not graded but may be reviewed later.
+**Matt(Backend/Database Preferred)** - Has taken CSC343: Introduction to Databases and CSC463: Computational Complexity and Computability in addition to required CS courses. Interested in putting to use his acquired skills in an applied project. For example, implementing backend logic or SQL that scales and designing algorithms. Lacks significant experience in other areas such as frontend.
+
+**Aryan (Backend / Frontend Web Interface Preferred)** - Has taken CSC309 and is currently doing CSC343. Has completed external projects, applying skills towards backend-heavy projects (ORMs, external apis, and complex business logic), and is interested in creating scalable server side solutions that can handle many users.
+
+**Greatman (Scrum master,Frontend Developer)** - Has worked on building frontend logic (using Flutter) of a location-based app which integrated maps and messaging similar to the current project.
+
+Karl-Alexandre (Product Manager, Full-Stack developer) -  Has extensive experience developing and maintaining production full-stack applications, including work on MarkUs, and saycamel.com, social platform with 850+ registered users. He will act as Product Manager, defining product requirements, prioritizing features, and ensuring alignment with user needs. Technically, he will contribute across the stack, including backend services, API design, database integration, and frontend components, while also supporting system architecture and deployment decisions.
 
 
 #### Q8: How will you work as a team?
@@ -152,13 +152,14 @@ members will be assigned tasks from the “Todo” column based on discussions i
 
 #### Q10: What are the rules regarding how your team works?
 
-**Communications:**
-* What is the expected frequency? What methods/channels will be used?
-* If you have a partner project, what is your process for communicating with your partner? Who is responsible?
+**Communication**: We will have mandatory weekly meetings via Discord voice/video channels on Tuesday between 6:00pm-7:15pm 
+and/or Saturday between 4:00pm-6:00pm. Subteams (frontend, backend, database) will meet once a week in person at flexible 
+times communicated during main team meetings and/or discord.
 
-**Collaboration:**
-* How are people held accountable for attending meetings, completing action items? What is your process?
-* How will you address the issue if one person doesn't contribute or is not responsive?
+**Collaboration**: We will keep track of attendance for weekly meetings in the meeting minutes, and members are expected to 
+review the meeting notes afterward if they cannot attend and/or provide updates through messaging instead. Subteams 
+will also be required to provide meeting updates during main team meetings. If someone is unresponsive, we will try to 
+reach out to them and provide support if possible, before seeking advice from our TA if necessary.
 
 ## Organisation Details
 

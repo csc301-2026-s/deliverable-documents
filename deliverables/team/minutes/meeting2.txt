@@ -1,0 +1,4 @@
+Length: 120 minutes
+
+Second meeting: Decided on the tech stack, designed a mockup on Figma, and discussed features in our MVP. Looked at other similar
+existing apps for inspiration on UI/UX design.

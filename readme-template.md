@@ -41,9 +41,17 @@ Describe your Git/GitHub workflow. Essentially, we want to understand how your t
  Keep this section brief, a maximum of 2-3 lines. You would want to read through this [article](https://www.geeksforgeeks.org/coding-standards-and-guidelines/) to get more context about what this section is for before attempting to answer.
   * These are 2 optional resources that you might want to go through: [article with High level explanation](https://blog.codacy.com/coding-standards-what-are-they-and-why-do-you-need-them/) and [this article with Detailed Explanation](https://google.github.io/styleguide/)
 ​
- ## Licenses 
+ ## Licenses
 ​
  Keep this section as brief as possible. You may read this [Github article](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for a start.
 ​
  * What type of license will you apply to your codebase? And why?
  * What affect does it have on the development and use of your codebase?
+
+## Deployed URL / Access Instructions
+
+Provide a link to the deployed application or clear instructions for how to access it. For mobile apps, include TestFlight/APK links or emulator instructions. For APIs, include Postman collections or curl examples.
+
+## D3 Improvement Highlight
+
+Briefly describe what changed since D2 and how to find it (2-3 sentences). Save the full analysis for the product evolution report.

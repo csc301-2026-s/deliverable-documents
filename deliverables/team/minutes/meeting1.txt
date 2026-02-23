@@ -1,0 +1,4 @@
+Length: 120 minutes
+
+First meeting: Brainstormed the main features and user stories for our product, our general timeline, and how it would
+coordinate users with dispatchers. Considered its feasibility and target audience, as well as each team member’s skill sets.

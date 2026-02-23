@@ -1,0 +1,13 @@
+Q1.Who are your partners? What’s their name, title, and email?
+
+We don't have any partners.
+
+Q2. Identify the primary partner contact (e.g., developer you are working with and meeting regularly) or secondary partner contact (e.g., executive director who you met once)
+
+None. We do not have any partner,
+
+Q3. Who is your TA and what’s their email?
+
+TA: João Teixeira
+Email: joao@cs.toronto.edu
+
